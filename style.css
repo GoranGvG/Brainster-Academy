@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+/* section one */
+.container{
+    margin: 10px;
+    background-color: blue;
+    border: 5px solid rgb(255, 0, 242);
+    width: 30%;
+}
+.paragraph{
+    border: 2px solid black;
+    background-color: orange;
+    margin: 30px;
+}
+.paragraph p{
+    margin: 0;
+}
+.second{
+    border: 2px solid black;
+    margin: 30px;
+    background-color: orange;
+}
+#middle-line{
+    width: 30%;
+    margin-left: 12px;
+}
+/* section two */
+.hello-world{
+    margin: 30px;
+    border: 2px solid black;
+}
+.first-paragraph{
+    border: 2px solid black;
+}
+.first-paragraph p{
+    margin: 30px;
+    font-size: 30px;
+}
+.box{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+.span{
+    margin: 20px 20px 40px 40px;
+    color: red;
+}
+/* section three */
+.container3{
+    margin: 50px;
+    border: 1px solid black;
+    width: 1100px;
+}
+.inner{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    color: rgb(36, 126, 182);
+}
+.heading span{
+    text-decoration: underline;
+    color: rgb(36, 126, 182);
+}
+.list span{
+    text-decoration: underline;
+    color: rgb(36, 126, 182);
+}
+.gradient1{
+    background: linear-gradient(to right,
+    rgb(113, 236, 102) 1% 1%, rgb(217, 243, 214) 1% 97%);
+}
+.gradient1 p{
+    padding: 20px;
+}
+.gradient2{
+    background: linear-gradient(to right,
+    rgb(241, 177, 79) 1% 1%, rgb(250, 230, 166) 1% 99%, rgb(241, 177, 79) 1% 1%);
+}
+.gradient2 p{
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.gradient2 span{
+    text-decoration: underline;
+    color: rgb(36, 126, 182);
+}
